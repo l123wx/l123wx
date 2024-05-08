@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @Elvis
-- 🧱 I’m a front-end developer
-- ✉️ llwxi@qq.com
+👋 Hi, I’m @Elvis : )
+
+🧱 I’m a front-end developer
